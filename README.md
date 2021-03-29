@@ -1,9 +1,12 @@
-Welcome to my profile!
+# Welcome to my profile!
 
 Currently working on:
 [PortableMC](https://github.com/portablemc/portablemc)
 [BoredHTML](https://github.com/PiSaucer/boredhtml)
 [AMC Website](https://github.com/yeetedmeme/amc-website)
+
+Who I am: 
+Im yeetedmeme, a mainly web and node dev from Canada.
 
 <details>
 <summary>Github stats</summary>
