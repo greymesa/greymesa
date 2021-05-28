@@ -3,7 +3,7 @@
 Currently working on:
 [PortableMC](https://github.com/portablemc/portablemc)
 [BoredHTML](https://github.com/PiSaucer/boredhtml)
-[SchoolGrounds](https://github.com/Ayducc-Games/Schoolgrounds)
+[SchoolGrounds](https://github.com/Bored-Entertainment/Schoolgrounds)
 
 Who I am: 
 Im yeetedmeme, a mainly web and node dev from Canada.
