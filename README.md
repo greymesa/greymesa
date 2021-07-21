@@ -6,7 +6,7 @@ Currently working on:
 [SchoolGrounds](https://github.com/Bored-Entertainment/Schoolgrounds)
 
 Who I am: 
-Im yeetedmeme, a mainly web and node dev from Canada.
+Im greymesa, a mainly web and node dev from Canada.
 
 <details>
 <summary>Github stats</summary>
