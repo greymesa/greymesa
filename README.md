@@ -13,11 +13,7 @@ Im greymesa, a mainly web and node dev from Canada.
   
 ![GitHub metrics](https://metrics.lecoq.io/yeetedmeme?pagespeed=1&languages=1&followup=1&gists=1&isocalendar=1&pagespeed.detailed=false&isocalendar.duration=half-year)
 </details>
-<details>
-<summary>Hypixel Stats (yes I know im bad)</summary>
-  
-![Skyblock Stats](https://hypixel.paniek.de/signature/150e0960668e46acb2b24720bdefad59/general)
-</details>
+
 
 
 
