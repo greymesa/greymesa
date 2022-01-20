@@ -1,12 +1,10 @@
 # Welcome to my profile!
 
 Currently working on:
-[PortableMC](https://github.com/portablemc/portablemc)
-[BoredHTML](https://github.com/PiSaucer/boredhtml)
-[SchoolGrounds](https://github.com/Bored-Entertainment/Schoolgrounds)
+[The Mesa Complex](https://github.com/Bored-Entertainment/themesacomplex)
 
 Who I am: 
-Im greymesa, a mainly web and node dev from Canada.
+I'm greymesa, a web developer from canada, but I also enjoy node sometimes
 
 <details>
 <summary>Github stats</summary>
