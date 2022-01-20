@@ -4,7 +4,7 @@ Currently working on:
 [The Mesa Complex](https://github.com/Bored-Entertainment/themesacomplex)
 
 Who I am: 
-I'm greymesa, a web developer from canada, but I also enjoy node sometimes
+I'm greymesa, a web developer from canada, but I also enjoy node sometimes.
 
 <details>
 <summary>Github stats</summary>
