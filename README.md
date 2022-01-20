@@ -11,7 +11,8 @@ Im greymesa, a mainly web and node dev from Canada.
 <details>
 <summary>Github stats</summary>
   
-![GitHub metrics](https://metrics.lecoq.io/yeetedmeme?pagespeed=1&languages=1&followup=1&gists=1&isocalendar=1&pagespeed.detailed=false&isocalendar.duration=half-year)
+![](https://github.com/greymesa/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/greymesa/github-stats/blob/master/generated/languages.svg)
 </details>
 
 
