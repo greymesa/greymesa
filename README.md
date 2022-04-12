@@ -1,7 +1,7 @@
 # hi i'm greymesa
 
 currently working on:
-[The Mesa Complex](https://github.com/Bored-Entertainment/themesacomplex)
+[the mesa complex](https://github.com/Bored-Entertainment/themesacomplex)
 
 <details>
 <summary>github stats</summary>
