@@ -1,6 +1,6 @@
 # hi i'm greymesa
 
-Ccurrently working on:
+currently working on:
 [The Mesa Complex](https://github.com/Bored-Entertainment/themesacomplex)
 
 <details>
