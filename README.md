@@ -1,13 +1,10 @@
-# Welcome to my profile!
+# hi i'm greymesa
 
-Currently working on:
+Ccurrently working on:
 [The Mesa Complex](https://github.com/Bored-Entertainment/themesacomplex)
 
-Who I am: 
-I'm greymesa, a web developer from canada, but I also enjoy node sometimes.
-
 <details>
-<summary>Github stats</summary>
+<summary>github stats</summary>
   
 ![](https://github.com/greymesa/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/greymesa/github-stats/blob/master/generated/languages.svg)
