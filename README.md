@@ -1,7 +1,7 @@
 # hi i'm greymesa
 
 currently working on:
-[the mesa complex](https://github.com/Bored-Entertainment/themesacomplex)
+[mesacomplex 2.0](https://github.com/cupofdirtfordinner/mesacomplex2.0)
 
 <details>
 <summary>github stats</summary>
