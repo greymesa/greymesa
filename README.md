@@ -1,7 +1,7 @@
 # hi i'm greymesa
 
 currently working on:
-nothing actually
+something, maybe
 
 <details>
 <summary>github stats</summary>
